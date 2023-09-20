@@ -1,0 +1,8 @@
+20/09/2023
+
+-> Overview about servers, systems, networks
+-> Packet transfer between source and destination
+-> CDN - Content Delivery network
+-> Git download and enable in VS code
+-> Created repository
+-> Cloned and commit this file into github
