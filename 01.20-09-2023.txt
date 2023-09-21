@@ -6,3 +6,4 @@
 -> Git download and enable in VS code
 -> Created repository
 -> Cloned and commit this file into github
+-> Created simple webpage using HTML and CSS
