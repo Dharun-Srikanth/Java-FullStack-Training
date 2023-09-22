@@ -1,0 +1,10 @@
+21/09/2023
+
+-> Github pages hosting
+-> HTML Tags:
+-> HTML entities (special symbols) ex: &copy;
+-> HTML5 Tables
+
+-> CSS
+    -> Flex
+    -> Build sample site
