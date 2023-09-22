@@ -1,3 +1,12 @@
 22/09/2023
 
 -> Cloning a webpage design
+    -> Things used: 
+        1. flex
+        2. font-family
+        3. Pesuodo selector -> hover, nth-child
+        4. Relational selector (>)
+        5. background darken
+        6. color transperancy
+
+site link: https://dharun-srikanth.github.io/Day3-Clone-Site/
