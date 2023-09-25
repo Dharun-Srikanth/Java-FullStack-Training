@@ -1,0 +1,22 @@
+23/09/2023
+
+Tailwind:
+    -> Fundamentals
+    -> Utility
+    -> Colors
+    -> Container & Spacing
+    -> Text
+    -> Width Height
+    -> Border & radius
+    -> Flex
+    -> Grid
+
+Myntra Cloning:
+    Used:
+        -> Tailwind
+            -> Grid
+            -> Colors
+            -> Text
+            -> Width Height
+
+Site URL: https://dharun-srikanth.github.io/Myntra-Clone-Day-4/
