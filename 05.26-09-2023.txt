@@ -1,0 +1,10 @@
+26/09/2023
+
+-> Tailwind
+-> Bootstrap
+-> Js
+    -> Fundamentals
+    -> map, reduce, filter
+    -> Promise, Async, Await
+    -> Array, Object
+    
