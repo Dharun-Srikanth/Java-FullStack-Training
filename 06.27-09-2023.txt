@@ -17,7 +17,7 @@
     -> forEach()
     -> map()
     -> window.location.href (to redirect page)
-    -> location.reload()
+    -> location.reload()  
     -> addEventListener()
 
 URL: https://dharun-srikanth.github.io/Address-Book-JS-Project/
