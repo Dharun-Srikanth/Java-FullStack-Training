@@ -1,0 +1,10 @@
+29/09/2023
+
+E-commerce Website Functionality:
+
+JS:
+    -> Form Validation
+    -> Orders page
+    -> Update orders and checkout page
+    -> Admin page with create and edit orders & Products
+
