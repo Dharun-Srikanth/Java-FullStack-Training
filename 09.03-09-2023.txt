@@ -1,0 +1,7 @@
+03/10/2023
+
+-> E-commerce Website:
+    -> Login Validation
+    -> Page UI completion
+    -> Category and Brands
+
