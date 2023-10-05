@@ -1,0 +1,10 @@
+04/10/2023
+-> E-commerce site Completion:
+    -> Search Functionality
+    -> Category and brands page
+    -> Product edit options (Admin Page)
+    -> Cart (Updation)
+    -> Few Functionalities added such as validation, userID, session handling, search with keywords
+
+Site URL: https://dharun-srikanth.github.io/Day-8-E-Commerce-Site/
+
