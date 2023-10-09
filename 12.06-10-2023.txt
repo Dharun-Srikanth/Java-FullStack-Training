@@ -1,0 +1,16 @@
+06/10/2023
+
+-> Form validation
+    -> email
+    -> pass
+    -> phone
+    -> select
+    -> checkbox
+    -> radio
+
+-> Async and Await concept
+    -> using fetch (built in function)
+    -> using then, catch
+    -> Promise
+    -> async, Await
+    -> try, catch
