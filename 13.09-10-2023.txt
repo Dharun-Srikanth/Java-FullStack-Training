@@ -1,0 +1,7 @@
+09/10/2023
+
+-> Typscript (superset of js)
+    -> Babel - Transcompiler
+    -> tsc - typescript compiler
+    -> npm init -y
+    -> install packages: parcel parcel-bundler
