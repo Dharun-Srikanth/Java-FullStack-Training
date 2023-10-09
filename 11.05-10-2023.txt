@@ -1,0 +1,7 @@
+05/10/2023
+
+-> Cart Project:
+    -> Add to cart 
+    -> Show count in the nav
+    -> +/- Functionalities
+    
