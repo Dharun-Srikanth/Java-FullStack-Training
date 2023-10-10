@@ -1,0 +1,13 @@
+10/10/2023
+
+-> Custom type define:
+    -> type Customtype = {id:number, gender?:string, age:number|string};
+    -> gender? -> optional
+    -> return type -> number|string -> return either of the type
+
+-> class
+-> object (using new keyword)
+-> Getters and Setters (get, set -> Keyword)
+-> public -> access anywhere, private -> access within class, protected -> access both parent and child class.
+
+-> Typescript attendance project
