@@ -1,0 +1,22 @@
+11/10/2023
+
+-> Non reloading functionality - SPA (Single Page Application)
+
+Install Angular - npm i @angular/cli
+
+-> Angular -> Full fledged Framework
+    -> commands (ng - angular CLI tool)
+        -> ng new projectName - to create new angular project
+        -> ng serve - to run the application in development mode
+        -> ng version - to check version
+        -> ng g c components/courses (ng - angular, g - generate, c - component)
+        -> ng g s services/courses (s - service)
+
+    -> dependency injection:
+        -> constructor(private obj:ClassName){
+            this.instanceVariable = obj.methodName();
+        }
+
+    -> String Interpertation - {{}}
+
+    -> html -> onclick -> angular -> (click) => event binding
