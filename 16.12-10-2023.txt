@@ -1,0 +1,19 @@
+12/10/2023
+
+Angular Basics:
+    -> Todo Application
+        -> Adding functionality
+        -> Logics in service file
+    
+    -> Terms in Angular
+        -> Selector
+        -> Structural directives 
+            ->Ex: *ngFor, *ngIf, *ngSwitch
+        -> Event Binding - Ex: (click) (button click)
+        -> FormModule -> (Dependency for [(ngModel)])
+        -> String interpolation - {{}}
+
+    -> Interface -> Model Folder -> To define type
+
+    -> Decorators - Ex: @something
+     
