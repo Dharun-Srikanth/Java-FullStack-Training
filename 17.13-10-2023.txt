@@ -1,0 +1,15 @@
+13/10/2023
+
+-> Angular todo task explanation:
+    -> CRUD operation:
+        -> Add - input value taking, Button click
+        -> Edit -> Get id of the value, Compare the actual array, change the value, reasign the value to the array
+        -> Delete -> Get the id, compare, delete using for loop/ splice function
+
+-> Angular Cart task:
+    -> CRUD operation
+    -> Viewing the count in nav bar
+    -> Edit and delete in cart page
+    -> Redirecting using routing concept
+    -> Router -> [{path:"", component: componentName}];
+
