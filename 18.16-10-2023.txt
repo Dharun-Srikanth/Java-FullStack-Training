@@ -1,0 +1,12 @@
+Angular E-commerce project:
+    -> Created UI:
+        -> Homepage
+        -> Login/Register
+        -> Products
+        -> Cart
+        -> Orders
+    
+    -> Routing concept for redirecting page.
+
+-> Add Details Page:
+    -> CRUD operation
