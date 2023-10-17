@@ -1,0 +1,19 @@
+Angular E-Commerce Project:
+    -> All Functionalities
+        -> Form validation
+        -> Redirecting after checking credentials
+        -> Logout and register checking
+        -> Add to cart Functionalities
+        -> Orders visibility
+        -> Checkout Functionalities
+    
+    -> Concepts:
+        -> Local storage
+        -> Session storage
+        -> event binding
+        -> NgForm -> FormsModule -> Form validation
+        -> Router -> For page redirection
+        -> Object creation -> Constructor dependency injection
+        -> CanActivate -> To restrict pages for users
+        -> Model/Interface -> For type define
+        -> Service files -> for bussiness logics
