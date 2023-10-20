@@ -3,3 +3,9 @@
 Angular Lottie:
     Lottie (animation illustration):
         -> Can be taken as json
+    
+    Angular E-Commerce Project
+        -> Hosting
+        -> CLI commands
+        -> adding welcome page
+    
