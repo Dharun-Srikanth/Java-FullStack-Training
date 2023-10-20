@@ -1,0 +1,5 @@
+19/10/2023
+
+Angular Lottie:
+    Lottie (animation illustration):
+        -> Can be taken as json

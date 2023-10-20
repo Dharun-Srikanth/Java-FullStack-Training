@@ -9,7 +9,7 @@ Angular E-Commerce Project:
         -> npx angular-cli-ghpages --dir=dist/Project-name
     
     -> Store cart values and orders in localstorage for each users
-
+     
     -> Verify the user id using session storage
 
 Hosting Commands: https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4

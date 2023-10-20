@@ -1,0 +1,40 @@
+20/10/2023
+
+JAVA:
+    -> Datatypes
+        -> byte
+        -> short
+        -> int 
+        -> float
+        -> double
+        -> long
+        -> char
+        -> boolean
+        -> String (class)
+    
+    -> array decleration
+
+    -> String concatenation
+
+    -> Calling other class methods
+        -> Static methods -> Directly accessing with class name
+        -> with access specifier, static method, without return type, with argument
+        -> static method, without return type, without argument
+        -> with argument with return type
+        -> with access specifier, without argument with return type
+
+    ->  Within class methods -> Static methods can call another static method directly
+
+    -> ATM project
+        -> Process
+            -> Scanner -> To get input
+            -> Balance checking
+            -> Withdraw amount
+            -> Deposit amount
+        
+        -> Concepts:
+            -> Static methods
+            -> While loop
+            -> Switch
+            -> If else
+            -> object creation
