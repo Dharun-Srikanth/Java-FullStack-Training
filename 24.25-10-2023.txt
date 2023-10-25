@@ -7,9 +7,15 @@ Java Practice Questions:
     -> Prime Series
     -> count of a character a string
 
-File Handling:
-    -> Buffered Reader
-    -> File Reader
+Java Topics:
+    -> File Handling:
+        -> Buffered Reader
+        -> File Reader
+    
+    -> Collections:
+        -> List -> ArrayList -> LinkedList
+        -> Set -> HashSet -> LinkedHashSet -> TreeSet
+        -> Map -> HashMap
 
 JUnit 5:
     -> Annotations
