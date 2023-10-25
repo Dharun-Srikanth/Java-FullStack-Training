@@ -1,0 +1,21 @@
+25/10/2023
+
+Java Practice Questions:
+    -> Subset of a array 
+    -> Sum pair in an array
+    -> Fibonacci Series
+    -> Prime Series
+    -> count of a character a string
+
+File Handling:
+    -> Buffered Reader
+    -> File Reader
+
+JUnit 5:
+    -> Annotations
+        -> @Test -> Testing method
+        -> @Order -> Order to run
+        -> @DisplayName -> Custom DisplayName
+        -> @BeforeAll -> before all method run
+        -> @BeforeEach -> Before each method run
+    
