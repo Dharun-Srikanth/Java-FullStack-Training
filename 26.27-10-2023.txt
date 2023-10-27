@@ -1,0 +1,12 @@
+27/10/2023
+
+
+Java E.Commerce Project:
+    -> After Login
+    -> Set LoggedIn user
+    -> Cart adding
+    -> Product viewing
+    -> Orders to csv file
+    -> Category added
+    -> String utils for message showcase
+    -> Checkout option
