@@ -1,0 +1,27 @@
+26/10/2023
+
+-> Java Backend Project:
+    -> Java E-Commerce
+        -> File setup - MVC (Module View Controller)
+        -> Interfaces for all Controller
+        -> Models
+        -> Utils
+        -> View files
+
+        -> Functionality:
+            -> Login
+            -> Register
+            -> Menu View
+            -> Options redirection
+            -> View Product
+            -> View Cart 
+            -> View Orders
+            -> Logout
+        
+        -> Concepts:
+            -> Encapsulation
+            -> File Handling
+            -> Inheritance (Interface)
+            -> Polymorphism
+            -> Singleton Object creation
+            
