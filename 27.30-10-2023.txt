@@ -1,0 +1,22 @@
+30/10/2023
+
+Java Project Continue:
+
+Flow of project:
+  -> Run "App.java"
+
+  -> init() method call
+
+  -> Welcome Page
+
+  -> Login or register
+
+  -> Show options (products, cart, orders)
+
+  -> Choose products to add
+
+  -> checkout from cart
+
+  -> orders viewing
+
+Repo link: https://github.com/Dharun-Srikanth/Java-E.commerce#-flow-of-the-project
