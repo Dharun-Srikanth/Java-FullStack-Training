@@ -1,0 +1,19 @@
+31/10/2023
+
+Java 8:
+    - Thread implementation
+    - Runnable
+    - Stream
+    - Consumer<> - accept() -> takes 1 argument and no return value.
+    - Biconsumer<> - accept() -> takes 2 argument and return nothing
+    - Predicate<> - test() -> takes 2 argument return true or false
+    - BiPredicate<> - test() -> takes 2 argument return true or false.
+    - Function<> - apply() -> takes 1 argument returns map
+    - BiFunction<> - apply() -> takes 2 argument returns map
+    - stream()
+        - map
+        - filter
+        - toList
+        - distinct
+        - sorted
+        - collect
