@@ -1,0 +1,56 @@
+01/11/2023
+
+DBMS:
+    Different Types of Querie Categories
+        - DDL
+        - DML
+        - TCL
+        - DQL
+        - DCL
+    
+    Datatypes
+        - CHAR
+        - VARCHAR
+        - BINARY
+        - BLOB 
+        - Long video -> Binary -> save as TEXT format
+
+    (Storing large files is not recommended)
+
+    - Queries:
+        - CREATE DATABASE checkingDB;
+        - SHOW DATABASES;
+        - USE checkingDB;
+
+    - Practiced Queries:
+        - -- DDL
+        CREATE DATABASE IF NOT EXISTS colors;
+        USE colors;
+        CREATE TABLE IF NOT EXISTS fav_colors(
+            color_name VARCHAR(50) NOT NULL DEFAULT "blue", 
+            color_mood VARCHAR(50)
+        );
+
+        -- DROP TABLE fav_colors;
+        -- ALTER TABLE fav_colors DROP COLUMN color_mood;
+        -- ALTER TABLE fav_colors MODIFY COLUMN color_mood CHAR; 
+        -- ALTER TABLE fav_colors RENAME COLUMN color_mood TO mood;
+
+        ALTER TABLE fav_colors ADD COLUMN like_or_dislike BOOLEAN NOT NULL;
+
+        DESC fav_colors;
+
+        -- DML
+        INSERT INTO fav_colors VALUES (
+            "red",
+            "anger",
+            1
+        );
+
+        ALTER TABLE fav_colors ADD COLUMN id INT NOT NULL;
+        ALTER TABLE fav_colors ADD PRIMARY KEY (id);
+
+        ALTER TABLE fav_colors DROP COLUMN id;
+
+        SELECT * FROM fav_colors;
+	
