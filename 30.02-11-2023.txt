@@ -1,0 +1,26 @@
+02/11/2023
+
+MySQL:
+    E.Commerce DB:
+        - Login Register Table 
+        - Products Table 
+        - Cart Table 
+        - Orders Table 
+
+        - Concepts:
+            - Inner Join
+            - CREATE
+            - delete
+            - update
+            - INSERT
+            - SELECT
+            - DESC
+
+Java - Servlet JSP:
+    - Servlet - HttpServlet:
+        - Session
+        - Cookie
+        - GET
+        - POST 
+    JSP:
+        - Writing java code in html
