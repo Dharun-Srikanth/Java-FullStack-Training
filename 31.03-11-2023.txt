@@ -1,0 +1,19 @@
+03/11/2023
+
+Practice Application using JSP, JDBC:
+        - Login 
+        - Register 
+        - Add Item 
+        - Remove Item 
+        - Edit Item
+    
+
+Concepts:
+    - JDBC connection 
+    - JDBC Driver
+    - JDBC PreparedStatement 
+    - JDBC setString, getString
+    - JDBC ResultSet 
+    - JDBC executeQuery(), executeUpdate();
+    - Dao- Date Access Object
+
