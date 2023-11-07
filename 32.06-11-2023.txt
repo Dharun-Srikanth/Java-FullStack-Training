@@ -1,0 +1,28 @@
+06/11/2023
+
+JSP-JDBC Practice Application:
+    - Updated all the pages using JSP Concepts
+    - Stored and accessed using DB
+    - E-Commerce Application:
+        - DriverManager
+        - common url: "jdbc:mysql://localhost:3306/dbName"
+        - Driver: com.mysql.jdbc.Driver
+
+Query File: https://github.com/Dharun-Srikanth/E-Commerce-JDBC/blob/master/QueryFile.sql
+
+Code Files: https://github.com/Dharun-Srikanth/E-Commerce-JDBC
+
+Spring MVC:
+    - Spring setup 
+    - Annotations 
+    - Plugins 
+    - Spring mvc dependencies 
+    - params (name)
+    - Request Mapping 
+    - Dispatcher 
+    - Form elements validation through annotations using hibernate validator
+    - Model (ModelAttribute)
+    - WebDataBinder 
+    - InitiBinder 
+    - HttpServletRequest 
+    - StringTrimmerEditor
