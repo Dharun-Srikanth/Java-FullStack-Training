@@ -1,0 +1,10 @@
+21/11/2023
+
+Sprint 1:
+    - Develop a posting system with text, images, and links.
+    - Implement like, comment, and share functionality
+
+Worked on Backend process:
+    -> API endpoint checkup
+        - Workspace in postman contains all the values
+        
