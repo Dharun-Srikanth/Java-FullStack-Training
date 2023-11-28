@@ -1,4 +1,7 @@
 14/11/2023
 
 Rest API Starter:
-    
+    -> Modified API requirements
+    -> Implemented boiler plate for further api endpoints
+    -> created the controller and service files according to the project
+    -> Setup with data loader
