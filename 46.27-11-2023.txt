@@ -1,0 +1,16 @@
+27/11/2023
+
+User Profile:
+    - Setup user details in profile page
+    - enable edit option for user to edit details
+    - Viewing user posts
+    - Showing followers, following, posts configuration
+    - Page redirection with auth guard
+
+FriendsPage:
+    - Viewing all following user Names
+    - Viewing all followers Names
+    - showing pending requests
+
+Explore:
+    - Showcase the posts that are not followed by user
