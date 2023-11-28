@@ -1,0 +1,7 @@
+17/11/2023
+
+API value testing:
+    -> Created all api endpoints in postman workspace
+    -> Got all data from DB
+    -> Viewed in JSON format
+    -> using POST api values had been added to the DB
