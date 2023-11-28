@@ -1,0 +1,16 @@
+24/11/2023
+
+Friend Suggestion Feature:
+    - API endpoint
+    - Retrieved using repository file
+    - Query for getting the users who didn't follow each other
+
+Add Post:
+    - Modal for input 
+    - text based posts
+    - Stored in post table
+
+Retrieving posts:
+    - Fetching all following posts 
+    - Viewed in UI (homepage)
+    
