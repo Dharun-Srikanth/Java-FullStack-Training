@@ -1,0 +1,7 @@
+23/11/2023
+
+Sprint 2:
+    - User Interactions and Notifications:
+        - Enable users to follow and connect with others
+        - Build a notification system for mentions and message
+        - Develop a news feed algorithm for personalized content.
