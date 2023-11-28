@@ -1,0 +1,12 @@
+15/11/2023
+
+Project Setup:
+    -> Backend:
+        - Springboot code Setup
+        - dependency added
+    
+    -> Frontend:
+        - New project creation using angular cli
+        - required components
+        - required services
+        
