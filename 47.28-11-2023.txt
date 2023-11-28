@@ -1,0 +1,20 @@
+28/11/2023
+
+Notification:
+    Notification feature:
+        -> When new requests arrived notification will trigger
+        -> Profile drop down
+            -> View Profile
+            -> Logout option
+
+Image uplaod options enabled:
+    -> Backend process:
+        - Storage Service - to store and download image file
+        - store the obtained image file in the server side
+        - store the path of the image in db
+        - retrieve image using filedownloading Controller
+    
+    -> Frontend process:
+        - input type file
+        - get the file using onchange
+        - from the frontend pass the image file using formData to Backend
