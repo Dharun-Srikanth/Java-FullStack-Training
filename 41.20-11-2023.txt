@@ -1,0 +1,14 @@
+20/11/2023
+
+Project: (Social Media Platform)
+    -> DB and values Created
+    -> Sample UI Created
+    -> Security config Setup
+    -> Cors configuration added
+    -> API endpoints creation
+
+    -> sprint 1:
+        - Create user registration and profile Setup
+        - Design and implement a user registration form with fields for essential information like name, email, and password.
+        - Develop a profile setup wizard or onboarding process to help users customize their profiles with details, profile pictures, and bios.
+
