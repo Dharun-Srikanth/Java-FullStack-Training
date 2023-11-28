@@ -1,0 +1,10 @@
+22/11/2023
+
+Problem Faced:
+    API returned multiple response due to list of values on every request
+
+Solved:
+    - Created response file 
+        - It consists only required fields from the DB
+        - This makes the infinite loop to be restricted
+        
