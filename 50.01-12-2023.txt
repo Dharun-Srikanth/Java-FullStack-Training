@@ -1,8 +1,16 @@
 01/12/2023
 
 Custom Validation:
-
+    - Implements validator
+    - write a method
+    - Can write custom logics to check
+    - method name can be added as an attribute in the input tag
 
 Struts:
+    - Before spring mvc
+    - action annotation
 
 Lazy Loading:
+    - Create multiple routing file
+    - can be define in which route the components should Load
+    - This makes loading only on particular component loads
