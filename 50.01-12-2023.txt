@@ -1,8 +1,8 @@
 01/12/2023
 
 Custom Validation:
-    
 
-Struct:
+
+Struts:
 
 Lazy Loading:
