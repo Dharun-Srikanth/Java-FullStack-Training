@@ -1,0 +1,13 @@
+30/11/2023
+
+Profile Pic:
+    -> Uploading photo from frontend
+    -> Storing it in the server
+    -> The filename will be saved in the DB(string)
+
+    -> Process:
+        - Using formData the values will be stored
+        - Those values will go to api endpoint (POST method)
+        - It will be retrieved as Multipart form data
+        - Storage service will do the creation of image file with timestamp as filename
+        - It will be stored in the DB
