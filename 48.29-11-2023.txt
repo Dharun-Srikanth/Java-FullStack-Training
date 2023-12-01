@@ -1,0 +1,15 @@
+29/11/2023
+
+Basic Bug Solving:
+    -> API fetching data delayed:
+        -> Solved by storing the data locally and retrieved it.
+
+    -> Loaded profile pic in website and loaded user data
+
+About page:
+    -> Added an about page
+        -> Explains what it is and Tech stacks
+
+Added Loader:
+    -> Added a loader which will appear when the data is fetching from the API
+
